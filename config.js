@@ -1,5 +1,5 @@
 global.owner = [
-  "2347043759577",
+  "263778331068",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
@@ -7,9 +7,9 @@ global.ownername = "David Cyril"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
 global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channeljid = "120363315231436175@newsletter"
+global.channeljid = "12036331531436175@newsletter"
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = false;                //make true to enable auto recording
+global.autoRecord = true;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
 global.AUTOSTATUS_REACT = false;   // Set to true to automatically like statuses
 global.autoLikeEmoji = "💚";    // Default emoji for liking statuses
